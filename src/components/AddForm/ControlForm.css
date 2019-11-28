@@ -1,0 +1,10 @@
+.Item-name{
+    margin: 20px 20px 20px 0;
+    width: 50%;
+    height: 35px;
+}
+.Item-cost{
+    width: 100px;
+    margin-right: 20px;
+    height: 35px;
+}
